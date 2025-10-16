@@ -19,3 +19,6 @@ I have used the 5mm X 5mm square LED's again for the LED matrix and they work gr
 
 
 This is a really fun little project and although it has a lot of LED's, the overall components is minimal and isn't hard to put together. Credit to Eddy Bergman who I was inspired by to build this project.
+
+https://www.eddybergman.com/2017/10/led-oscilloscope-with-100-leds.html?utm_source=pocket_mylist
+
