@@ -1,6 +1,6 @@
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/54c27abd-6ee8-4a90-9ee3-42a39f39980d" />
 
-Youtube Vid
+Youtube Vid - https://youtu.be/FqV2W9gObf8
 
 Instructables - https://www.instructables.com/100-LED-Oscilloscope/
 
